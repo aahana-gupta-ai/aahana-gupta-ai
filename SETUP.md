@@ -2,7 +2,7 @@
 
 This package is designed for the GitHub profile repository:
 
-`rabiul-awal12/rabiul-awal12`
+`aahana-gupta-ai/aahana-gupta-ai`
 
 ## Files
 
@@ -19,7 +19,7 @@ assets/
 
 ## Upload
 
-1. Open the `rabiul-awal12/rabiul-awal12` repository.
+1. Open the `aahana-gupta-ai/aahana-gupta-ai` repository.
 2. Replace the current root `README.md` with the included `README.md`.
 3. Upload the entire `assets` folder.
 4. Upload `.github/workflows/snake.yml` while preserving the folder structure.
@@ -68,6 +68,6 @@ These images are generated dynamically from the public GitHub account. They do n
 
 ## Important
 
-The professional profile content is written for **Aahana Gupta**, while the GitHub username used by the graph URLs is **rabiul-awal12** because that is the profile repository supplied for this package.
+The professional profile content is written for **Aahana Gupta**, while the GitHub username used by the graph URLs is **aahana-gupta-ai** because that is the profile repository supplied for this package.
 
-If the profile is later moved to a different GitHub username, replace every occurrence of `rabiul-awal12` in `README.md`.
+If the profile is later moved to a different GitHub username, replace every occurrence of `aahana-gupta-ai` in `README.md`.

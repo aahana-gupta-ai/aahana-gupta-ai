@@ -390,7 +390,7 @@ Student Researcher · Founder · Builder
 <br><br>
 
 <a href="https://github.com/aahana-gupta-ai">
-  <img src="https://img.shields.io/badge/GitHub-aahana-gupta-ai-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aahana%20Gupta-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
