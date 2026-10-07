@@ -8,6 +8,12 @@ I am an A-level student at Cardiff Sixth Form College interested in one recurrin
 
 That question has taken me from dementia assessment and multilingual interfaces to phonics, computational music, and voice-based care.
 
+### An 18-month thread
+
+This GitHub profile has been active since **April 2025**. The work represented here developed over roughly the next **18 months**, moving from research questions and early experiments into studies, prototypes, field use, and public documentation.
+
+The separate project repositories were consolidated on GitHub in **October 2026**, so their repository-creation dates are newer than the work itself. I have kept that distinction explicit rather than backdating or rewriting project history.
+
 ---
 
 ## What I am working on
