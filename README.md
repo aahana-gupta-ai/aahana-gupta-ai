@@ -8,11 +8,21 @@ I am an A-level student at Cardiff Sixth Form College interested in one recurrin
 
 That question has taken me from dementia assessment and multilingual interfaces to phonics, computational music, and voice-based care.
 
-### An 18-month thread
+---
 
-This GitHub profile has been active since **April 2025**. The work represented here developed over roughly the next **18 months**, moving from research questions and early experiments into studies, prototypes, field use, and public documentation.
+## An 18-month arc
 
-The separate project repositories were consolidated on GitHub in **October 2026**, so their repository-creation dates are newer than the work itself. I have kept that distinction explicit rather than backdating or rewriting project history.
+This GitHub profile was created in **April 2025**. The work represented here developed across the following 18 months; the separate project repositories were only consolidated publicly in **October 2026**.
+
+- **2025 — Computational music:** ancient Greek tuning, frequency ratios, and the gap between notation and performance at the Wolfram Summer Research Program.
+- **Jan-Apr 2026 — Sahitya pilot:** structured phonics, rhythm, repeated practice, and low-friction delivery tested in a real learning setting.
+- **2026 — Dementia assessment:** research expanded from cognitive scores into questions about language, cultural context, and multilingual assessment design.
+- **2026 — Smriti:** dementia-care research became a design problem involving familiar voice, family context, and everyday support.
+- **Sep-Oct 2026 — Public documentation:** projects moved into public-facing testing and were organised into inspectable GitHub repositories.
+
+**[See the fuller project chronology →](PROJECT_TIMELINE.md)**
+
+GitHub is being used here as a **documentation and reproducibility layer**, not as a claim that all of the underlying research, pilots, writing, or field work began when these repositories were created.
 
 ---
 
@@ -22,14 +32,26 @@ The separate project repositories were consolidated on GitHub in **October 2026*
 
 I study how language and cultural context can change performance on cognitive assessments such as ADAS-Cog.
 
-My work has included:
-- research on ADAS-Cog performance in Indian patients,
-- a multilingual assessment interface,
-- reproducible analysis workflows using synthetic public data,
-- and follow-up research on culturally adapted testing.
+My work has included research on ADAS-Cog performance in Indian patients, a multilingual assessment interface, and reproducible analysis workflows that separate public demonstration data from patient data.
 
 **Repositories:**  
 [Multilingual ADAS-Cog](https://github.com/aahana-gupta-ai/multilingual-adas-cog-app) · [Cultural Bias in Dementia Assessment](https://github.com/aahana-gupta-ai/dementia-assessment-research)
+
+### Ancient Greek musical systems
+
+At the Wolfram Summer Research Program, I used frequency ratios and computational modelling to explore ancient Greek tuning.
+
+What interested me most was not just how to reconstruct the notes, but what a mathematical reconstruction can never recover: tempo, emphasis, breath, and interpretation.
+
+[View repository →](https://github.com/aahana-gupta-ai/greek-music-wolfram)
+
+### Sahitya
+
+Sahitya is a structured-literacy project built around a practical constraint: many children who need literacy support are not going to use specialist software.
+
+I became interested in how little technology a useful intervention actually needs, and whether rhythm and repetition can make phonics practice easier to sustain.
+
+[View repository →](https://github.com/aahana-gupta-ai/sahitya-phonics)
 
 ### SmritiCare
 
@@ -39,22 +61,6 @@ The question behind it is not simply whether AI can imitate a voice. It is wheth
 
 [View repository →](https://github.com/aahana-gupta-ai/smriticare)
 
-### Sahitya
-
-Sahitya is a structured-literacy project built around a practical constraint: many children who need literacy support are not going to use specialist software.
-
-I became interested in how little technology a useful intervention actually needs, and in whether rhythm and repetition can make phonics practice easier to sustain.
-
-[View repository →](https://github.com/aahana-gupta-ai/sahitya-phonics)
-
-### Ancient Greek musical systems
-
-At the Wolfram Summer Research Program, I used frequency ratios and computational modelling to explore ancient Greek tuning.
-
-What interested me most was the gap between what notation preserves and what performance leaves unsaid.
-
-[View repository →](https://github.com/aahana-gupta-ai/greek-music-wolfram)
-
 ---
 
 ## How these projects connect
@@ -63,13 +69,13 @@ At first, dementia assessment, phonics, voice technology, and ancient music look
 
 They are not.
 
-Each asks what happens when a formal system — a test score, an algorithm, a notation system, a curriculum — tries to represent something messier and more human.
+Each asks what happens when a formal system — a test score, an algorithm, a notation system, or a curriculum — tries to represent something messier and more human.
 
 That is the intersection I want to keep studying: **cognitive science, language, computation, and human-centred design**.
 
 ---
 
-## Research and recognition
+## Selected research and recognition
 
 - Published research on ADAS-Cog performance in urban Indian Alzheimer's patients
 - Follow-up work on cultural and linguistic bias in dementia assessment
@@ -86,7 +92,7 @@ That is the intersection I want to keep studying: **cognitive science, language,
 
 `Wolfram Language` · `Python` · `JavaScript` · `data analysis` · `AI-assisted development` · `voice technology`
 
-I use AI-assisted development tools where useful, and I document that distinction in individual repositories. My goal is not to make the code look more impressive than the work; it is to make the research questions, design decisions, and evidence inspectable.
+I use AI-assisted development tools where useful, and I document that distinction in individual repositories. My goal is not to make the code look more impressive than the work; it is to make the **research questions, design decisions, limitations, and evidence inspectable**.
 
 ---
 
