@@ -4,8 +4,8 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rabiul-awal12&label=Profile%20Views&color=6c63ff&style=flat-square)](https://github.com/rabiul-awal12)
-[![GitHub followers](https://img.shields.io/github/followers/rabiul-awal12?label=Followers&style=flat-square&color=6c63ff)](https://github.com/rabiul-awal12?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=aahana-gupta-ai&label=Profile%20Views&color=6c63ff&style=flat-square)](https://github.com/aahana-gupta-ai)
+[![GitHub followers](https://img.shields.io/github/followers/aahana-gupta-ai?label=Followers&style=flat-square&color=6c63ff)](https://github.com/aahana-gupta-ai?tab=followers)
 [![Research](https://img.shields.io/badge/Focus-Cognitive%20Science-6c63ff?style=flat-square)](#research)
 [![AI](https://img.shields.io/badge/AI-Human--Centred-8b5cf6?style=flat-square)](#how-i-build)
 [![Healthcare](https://img.shields.io/badge/Healthcare-Dementia%20Research-0ea5e9?style=flat-square)](#research)
@@ -36,6 +36,7 @@ My work spans dementia assessment, multilingual technology, AI-assisted care, li
 ## Research
 
 ### Cultural Bias in Dementia Assessment
+
 **Lead Researcher & App Developer**
 
 I investigate how language and cultural context influence performance on the **Alzheimer's Disease Assessment Scale–Cognitive Subscale (ADAS-Cog)**.
@@ -46,6 +47,7 @@ I investigate how language and cultural context influence performance on the **A
 - Manuscript currently **under review at the _Journal of Clinical Neuroscience_**
 
 ### ADAS-Cog Performance in Urban Indian Alzheimer's Patients
+
 **Lead Researcher**
 
 Research with **Dr. Praveen Gupta** examining ADAS-Cog performance among urban Indian Alzheimer's patients.
@@ -55,11 +57,13 @@ Research with **Dr. Praveen Gupta** examining ADAS-Cog performance among urban I
 - Focused my broader research direction on linguistic and cultural assumptions in cognitive assessment
 
 ### Psychiatry & Mental Health
+
 **Researcher & Intern — Fortis Memorial Research Institute, Gurugram**
 
 Under **Dr. Samir Parikh**, I analysed Alzheimer's clinical datasets and examined where DSM-5-based frameworks may diverge from culturally shaped symptoms and experiences.
 
 ### Computational Music Research
+
 **Student Researcher — Wolfram Summer Research Program, Bentley University**
 
 I developed a computational essay on **ancient Greek musical systems**, using mathematics, frequency relationships, and computational modelling.
@@ -82,7 +86,7 @@ A multilingual cognitive-assessment project exploring **culturally adapted ADAS-
 
 **Focus:** `dementia` `multilingual` `healthcare` `research`
 
-<a href="https://github.com/rabiul-awal12/multilingual-adas-cog-app"><b>View repository →</b></a>
+<a href="https://github.com/aahana-gupta-ai/multilingual-adas-cog-app"><b>View repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +97,7 @@ Dementia support through **familiar family voices, voice-cloning technology, and
 
 **Focus:** `artificial-intelligence` `voice-cloning` `dementia` `whatsapp`
 
-<a href="https://github.com/rabiul-awal12/smriticare"><b>View repository →</b></a>
+<a href="https://github.com/aahana-gupta-ai/smriticare"><b>View repository →</b></a>
 
 </td>
 </tr>
@@ -107,7 +111,7 @@ A **WhatsApp-native phonics curriculum** with dyslexia-screening support, connec
 
 **Focus:** `education` `literacy` `dyslexia` `accessibility`
 
-<a href="https://github.com/rabiul-awal12/sahitya-phonics"><b>View repository →</b></a>
+<a href="https://github.com/aahana-gupta-ai/sahitya-phonics"><b>View repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +122,7 @@ Computational modelling of ancient Greek tuning systems and frequency ratios usi
 
 **Focus:** `wolfram-language` `computational-music` `music-theory` `mathematics`
 
-<a href="https://github.com/rabiul-awal12/greek-music-wolfram"><b>View repository →</b></a>
+<a href="https://github.com/aahana-gupta-ai/greek-music-wolfram"><b>View repository →</b></a>
 
 </td>
 </tr>
@@ -132,7 +136,7 @@ A research-focused repository for documentation and reproducible analysis exampl
 
 **Focus:** `data-science` `healthcare` `dementia` `cognitive-science` `research`
 
-<a href="https://github.com/rabiul-awal12/dementia-assessment-research"><b>View repository →</b></a>
+<a href="https://github.com/aahana-gupta-ai/dementia-assessment-research"><b>View repository →</b></a>
 
 </td>
 </tr>
@@ -142,22 +146,22 @@ A research-focused repository for documentation and reproducible analysis exampl
 
 <div align="center">
 
-<a href="https://github.com/rabiul-awal12/multilingual-adas-cog-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rabiul-awal12&repo=multilingual-adas-cog-app&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
+<a href="https://github.com/aahana-gupta-ai/multilingual-adas-cog-app">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aahana-gupta-ai&repo=multilingual-adas-cog-app&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
 </a>
-<a href="https://github.com/rabiul-awal12/smriticare">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rabiul-awal12&repo=smriticare&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
-</a>
-
-<a href="https://github.com/rabiul-awal12/sahitya-phonics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rabiul-awal12&repo=sahitya-phonics&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/rabiul-awal12/greek-music-wolfram">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rabiul-awal12&repo=greek-music-wolfram&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
+<a href="https://github.com/aahana-gupta-ai/smriticare">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aahana-gupta-ai&repo=smriticare&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
 </a>
 
-<a href="https://github.com/rabiul-awal12/dementia-assessment-research">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rabiul-awal12&repo=dementia-assessment-research&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
+<a href="https://github.com/aahana-gupta-ai/sahitya-phonics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aahana-gupta-ai&repo=sahitya-phonics&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/aahana-gupta-ai/greek-music-wolfram">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aahana-gupta-ai&repo=greek-music-wolfram&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
+</a>
+
+<a href="https://github.com/aahana-gupta-ai/dementia-assessment-research">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aahana-gupta-ai&repo=dementia-assessment-research&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" />
 </a>
 
 </div>
@@ -168,8 +172,8 @@ A research-focused repository for documentation and reproducible analysis exampl
 
 <div align="center">
 
-| 400 | 11,500+ | 104 | 120 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
+|                         400                          |              11,500+               |              104               |                          120                           |                              4                              |
+| :--------------------------------------------------: | :--------------------------------: | :----------------------------: | :----------------------------------------------------: | :---------------------------------------------------------: |
 | Families supported through early **SmritiCare** work | People reached through **Sahitya** | Anganwadis involved in Sahitya | Participants in follow-up dementia-assessment research | Indian languages supported in the multilingual ADAS-Cog app |
 
 </div>
@@ -182,16 +186,16 @@ Additional community work has raised **₹4.91 lakh for children's education**.
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiul-awal12&theme=github_dark" alt="GitHub profile details" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aahana-gupta-ai&theme=github_dark" alt="GitHub profile details" />
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rabiul-awal12&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiul-awal12&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aahana-gupta-ai&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=6C63FF&text_color=8B949E&icon_color=6C63FF" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahana-gupta-ai&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=6C63FF&text_color=8B949E" alt="Top languages" />
 
 <br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rabiul-awal12&hide_border=true&background=00000000&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=6B7280" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=aahana-gupta-ai&hide_border=true&background=00000000&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=6B7280" alt="GitHub streak" />
 
 </div>
 
@@ -199,7 +203,7 @@ Additional community work has raised **₹4.91 lakh for children's education**.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rabiul-awal12&bg_color=00000000&color=8B949E&line=6C63FF&point=8B5CF6&area=true&area_color=6C63FF&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aahana-gupta-ai&bg_color=00000000&color=8B949E&line=6C63FF&point=8B5CF6&area=true&area_color=6C63FF&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -207,9 +211,9 @@ Additional community work has raised **₹4.91 lakh for children's education**.
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiul-awal12&theme=github_dark" alt="Repositories per language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabiul-awal12&theme=github_dark" alt="Most commit language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rabiul-awal12&theme=github_dark&utcOffset=0" alt="Productive time" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aahana-gupta-ai&theme=github_dark" alt="Repositories per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aahana-gupta-ai&theme=github_dark" alt="Most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aahana-gupta-ai&theme=github_dark&utcOffset=0" alt="Productive time" />
 
 </div>
 
@@ -217,7 +221,7 @@ Additional community work has raised **₹4.91 lakh for children's education**.
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=rabiul-awal12&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=aahana-gupta-ai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
 
 </div>
 
@@ -226,9 +230,9 @@ Additional community work has raised **₹4.91 lakh for children's education**.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabiul-awal12/rabiul-awal12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabiul-awal12/rabiul-awal12/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rabiul-awal12/rabiul-awal12/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aahana-gupta-ai/aahana-gupta-ai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aahana-gupta-ai/aahana-gupta-ai/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/aahana-gupta-ai/aahana-gupta-ai/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -323,14 +327,14 @@ The project raised **$3,500** for physician training in culturally adapted demen
 
 <div align="center">
 
-| Recognition | Result |
-|---|---|
+| Recognition                          | Result                            |
+| ------------------------------------ | --------------------------------- |
 | Cambridge Re:think Essay Competition | **Silver — top 0.25% of 15,000+** |
-| Technovation Girls | **Global Semifinalist** |
-| UKMT Senior Mathematical Challenge | **Gold** |
-| Mathematical Olympiad for Girls | **Distinction** |
-| Haryana Health Minister Award | **Youngest recipient** |
-| Wolfram Summer Research Program | **Staff Pick** |
+| Technovation Girls                   | **Global Semifinalist**           |
+| UKMT Senior Mathematical Challenge   | **Gold**                          |
+| Mathematical Olympiad for Girls      | **Distinction**                   |
+| Haryana Health Minister Award        | **Youngest recipient**            |
+| Wolfram Summer Research Program      | **Staff Pick**                    |
 
 </div>
 
@@ -385,8 +389,8 @@ Student Researcher · Founder · Builder
 
 <br><br>
 
-<a href="https://github.com/rabiul-awal12">
-  <img src="https://img.shields.io/badge/GitHub-rabiul--awal12-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/aahana-gupta-ai">
+  <img src="https://img.shields.io/badge/GitHub-aahana-gupta-ai-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
